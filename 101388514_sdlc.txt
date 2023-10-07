@@ -1,0 +1,4 @@
+Learning devops is no longer optional in the world of AI, especially after Agile Software Development became 
+standard practice, version control allows multiple developers to work together in unison to create a great 
+product, and working with containerization to deploy the product after development, with faster and more
+efficient deployments with load balancing.
