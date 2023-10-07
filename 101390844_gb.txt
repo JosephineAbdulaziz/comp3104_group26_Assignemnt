@@ -1,0 +1,10 @@
+George Brown College is one of the most important Colleges in Toronto.
+Around 30,000 students attend george brown college per year.
+It has 3 campuses in the GTA whcih are :
+St. James Campus: This is the largest and main campus of George Brown College.
+It is located in downtown Toronto and offers a wide range of programs.
+Waterfront Campus: located by Lake Ontario, this campus focuses on programs related to business,
+hospitality, health sciences, and photopgraph .
+Casa Loma Campus: This campus is known for its historic architecture and offers programs in arts, 
+design, and computer science.
+Toronto Matropoltin University Partnership: George Brown College collaborates with TMU at their joint TMU George Brown Campus.
