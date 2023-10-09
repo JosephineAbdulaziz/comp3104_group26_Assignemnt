@@ -1,0 +1,4 @@
+Learning to become a DevOps engineer is very important, 
+especailly in the time due to many reason through the following practices 
+like automaiton, CI/CD,security which help reducing operational overhead, improving software quality
+and more reponsive to changing requirements which overall improve development lifecycle.
